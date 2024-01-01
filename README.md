@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @wwwnsai
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning Software Engineering Year 2, KMITL
+- 🌱 I’m currently studying as a Software Engineering Year 2 student, KMITL
 - 📫 How to reach me: pthanyanit@gmail.com

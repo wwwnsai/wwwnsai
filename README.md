@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wwwnsai
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently a Software Engineering student Year 2 student, KMITL
+- 🌱 I’m currently a sophomore Software Engineering student, KMITL
 - 📫 How to reach me: pthanyanit@gmail.com
 - My Portfolio: https://wwwnsai.github.io/my-Portfolio/
